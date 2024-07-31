@@ -33,13 +33,6 @@ _* denotes equal contribution._
 <!-- * Alleviating Hallucinations of Large Language Models through Induced Hallucinations [[paper]](https://arxiv.org/abs/2312.15710) [[repo]](https://github.com/HillZhang1999/icd) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/icd?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/3f915aab835cbfe69e7b2ea1c73b74ac8a2d384e?fields=citationCount)](https://www.semanticscholar.org/paper/3f915aab835cbfe69e7b2ea1c73b74ac8a2d384e)<br> 
 **Yue Zhang**, Leyang Cui, Wei Bi, Shuming Shi. 2023. In **_Arxiv_**. -->
 
-
-<!-- ## Projects:
-
-* **MuCGEC**: New Chinese GEC datasets for Chinese learners and State-of-the-art CGEC models. [[Repo]](https://github.com/HillZhang1999/MuCGEC) <br> 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/mucgec?style=social"> -->
-
-
 ## Academic Competitions
 * **2024.06**: My collaborator Yu Xie and I won four first places and one second place in the **ICADR2024-Text Map** Challenge (ICADR is one of the most authoritative conferences in the field of OCR recognition), and we have been invited to present a technical report at ICADR2025.
 
