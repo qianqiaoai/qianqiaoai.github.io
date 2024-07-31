@@ -15,7 +15,7 @@ To date, I have published over 10 scholarly papers as a first author or co-autho
 + Master, School of Computer Science and Technology, **Soochow University**, Suzhou, China.
 + Bachelor, School of Computer Science and Technology, **Soochow University**, Suzhou, China.
 
-# 🔥 News
+## 🔥 News
 - *2024.07*: 🎉 🔥🔥🔥 `DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training` is accepted by ACM MM 2024.
 - *2024.07*: 🎉 Invited by EMNLP as Reviewer.
 - *2024.06*: 🎉 Two papers are accepted by ICANN 2024.
@@ -39,7 +39,7 @@ _* denotes equal contribution._
 ## Academic Services
 * **Reviewer**: AAAI-2023, ACM MM-2024, NIPS-2024, ACL-2024, EMNLP-2024, ICASSP-2023.
 
-# 💻 Internships
+## 💻 Internships
 * **2024.06 - now**, Research Intern, Soul APP, Shanghai, China.
 * **2024.02 - 2024.05**, Research Intern, bilibili Inc, Shanghai, China.
 
