@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Qian Qiao (乔谦). I am currently a master's student at Soochow University, supervised by [Jiaqing Fan](https://scholar.google.com/citations?user=eJ_g_u4doHYC&hl=en&oi=ao), [Ziqiang Cao](https://scholar.google.com/citations?user=06ITfcEAAAAJ&hl=zh-CN) and [Fanzhang Li](https://dblp.uni-trier.de/pid/81/1136.html). My research focuses on several areas, including multimodal understanding, image generation, text spotting and few-shot learning.
+My name is Qian Qiao (乔谦). I am currently a master's student at Soochow University, supervised by [Jiaqing Fan](https://scholar.google.com/citations?user=eJ_g_u4doHYC&hl=en&oi=ao) and [Fanzhang Li](https://dblp.uni-trier.de/pid/81/1136.html). My research focuses on several areas, including multimodal understanding, image generation, text spotting and few-shot learning.
 
 <i style="color:#e74d3c">I am actively looking for a Ph.D. position in 2025 Fall. Feel free to contact me if you are interested!</i>  
 
