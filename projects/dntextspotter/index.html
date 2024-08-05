@@ -183,22 +183,22 @@
           <div class="column has-text-centered">
             <div class="publication-links">
               <!-- PDF Link. -->
-              <!-- <span class="link-block">
-                <a target="_blank" rel="noopener noreferrer" href=""
+              <span class="link-block">
+                <a target="_blank" rel="noopener noreferrer" href="./DNTextSpotter.pdf"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fas fa-file-pdf"></i>
                   </span>
                   <span>Paper</span>
                 </a>
-              </span> -->
+              </span>
               <span class="link-block">
                 <a target="_blank" rel="noopener noreferrer" href="https://qianqiaoai.github.io/projects/dntextspotter/realcamnet.pdf"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="ai ai-arxiv"></i>
                   </span>
-                  <span>Paper</span>
+                  <span>Arxiv</span>
                 </a>
               </span>
               <!-- Video Link. -->
@@ -314,21 +314,21 @@ bulmaCarousel.attach('#results-carousel', {
   <div class="container is-widescreen">
     <h2 class="title is-3">Noised Positional Queries & Noised Content Queries</h2>
     <div class="columns is-centered has-text-centered">
-      <div class="column is-full">
-        <image src="./static/image/mask.png" class="img-responsive" alt="realcamnet_coordinate_related_distortion"><br>
-        <div class="content has-text-justified">
-          <p>
-            <b>Top:</b> Examples of coordinate-related distortion (vignetting and dark shading). <br>
-          </p>
-        </div>
-          <!-- 第二张图片 -->
-        <div class="column is-full">
-        <image src="./static/image/content.png" class="img-responsive" alt="realcamnet_coordinate_related_distortion"><br>
-        <div class="content has-text-justified">
-          <p>
-            <b>Top:</b> Examples of coordinate-related distortion (vignetting and dark shading). <br>
-          </p>
-        </div>
+      <div class="column is-half">
+        <figure class="image is-fullwidth">
+          <img src="./static/image/mask.png" alt="realcamnet_coordinate_related_distortion">
+          <figcaption class="has-text-justified">
+            <p><b>Noised Positional Queries:</b> We generate noised positional queries using four Bezier control points from the ground truth, which includes uniformly sampling points along the Bezier curve, position embedding, and a two-layer MLP.</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="column is-half">
+        <figure class="image is-fullwidth">
+          <img src="./static/image/content.png" alt="Second Image Description">
+          <figcaption class="has-text-justified">
+            <p><b>Noised Content Queries:</b> This image shows the process of generating noised content queries from the ground-truth texts. "Ø" indicates the characters will be masked, while "σ" denotes flipping the characters into any character.</p>
+          </figcaption>
+        </figure>
       </div>
     </div>
   </div>
@@ -338,13 +338,23 @@ bulmaCarousel.attach('#results-carousel', {
   <div class="container is-widescreen">
     <h2 class="title is-3">Rate-Distortion Curve Results</h2>
     <div class="columns is-centered has-text-centered">
-      <div class="column is-full">
-        <image src="./static/image/rdcurve.png" class="img-responsive" alt="realcamnet_rd_curve_results"><br>
-        <div class="content has-text-justified">
-          <p>
-            Quantitative comparison on Rate-Distortion Curve.
-          </p>
-        </div>
+      <div class="column is-half">
+        <figure class="image is-fullwidth">
+          <img src="./static/image/vs.png" alt="realcamnet_coordinate_related_distortion">
+          <figcaption class="has-text-justified">
+            <p>
+              The convergence curves of DNTextSpotter (Ours), DeepSolo, TESTR, and ESTextSpotter on the Inverse-Text dataset using the ResNet-50 backbone in the 'None' results, where 'None' denotes the F1-measure without lexicon.
+            </p>          
+          </figcaption>
+        </figure>
+      </div>
+      <div class="column is-half">
+        <figure class="image is-fullwidth">
+          <img src="./static/image/is.png" alt="Second Image Description">
+          <figcaption class="has-text-justified">
+            <p>For the IS of TESTR, DeepSolo, and DNTextSpotter, we trained for 120k steps under the same settings, calculating the IS at every consecutive 10k step interval.</p>
+          </figcaption>
+        </figure>
       </div>
     </div>
   </div>
@@ -352,15 +362,13 @@ bulmaCarousel.attach('#results-carousel', {
 
   <section class="section">
     <div class="container is-widescreen">
-      <h2 class="title is-3">Quantitative results</h2>
+      <h2 class="title is-3">Experiment results</h2>
       <div class="columns is-centered has-text-centered">
         <div class="column is-full">
-          <image src="./static/image/tableresults.png" class="img-responsive" alt="realcamnet_quantitative_results"><br>
+          <image src="./static/image/result.png" class="img-responsive" alt="realcamnet_quantitative_results"><br>
           <div class="content has-text-justified">
             <p>
-              Quantitative results. We compare with state-of-the-art ISPNet and image compression methods, including learning-based methods:
-             PyNet(CVPR'20), LiteISPNet(ICCV'21), MwISPNet(ECCV'20), MLIC(ACMMM'23), TCM(CVPR'23) and the most advanced traditional image compression method VTM/H.266.
-             We show BD-Rate, BD-PSNR, BD-MSSSIM, BD-δE and BD-LPPHS for all methods. We use PyNet+VTM as anchor.
+              Performances on Total-Text and CTW1500 with different backbone. E2E denotes the end-to-end spotting results. "None" denotes lexicon-free. "Full" denotes the inclusion of all words present in the test dataset. The top three scores are shown in bold <font color="#ff0000">red</font>, <font color="#0070c0">blue</font>, and <font color="#00b050">green</font> fonts. Additionally, results without TextOCR in pre-training are indicated with "*".
             </p>
           </div>
         </div>
@@ -377,7 +385,7 @@ bulmaCarousel.attach('#results-carousel', {
             <image src="./static/image/visual.jpg" class="img-responsive" alt="realcamnet_quantitative_results"><br>
             <div class="content has-text-justified">
               <p>
-                Compared with the state-of-the-art methods, our framework, optimized end-to-end, demonstrates significant enhancements in imaging systems' performance. It offers comprehensive benefits, encompassing reduced bit rate, augmented color fidelity, and elevated PSNR.
+                Several instance examples: rows display ESTextSpotter, DeepSolo, and DNTextSpotter (Ours) visualizations, respectively. In the recognition results, <font color="#0070c0">blue</font> within parentheses represents correct recognition, while <font color="#ff0000">red</font> denotes incorrect ones; outside the parentheses, Ø signifies no detection or no recognition took place. Additional visual analysis is provided in the paper.
               </p>
             </div>
           </div>
@@ -438,7 +446,7 @@ bulmaCarousel.attach('#results-carousel', {
           </p>
         </div>
       </div>
-      <a href="https://mapmyvisitors.com/web/1bw85" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=GrcOEDG5hcByn62gmG4Z71NKBC4PNQoZ8ZCk7tDhGvs&cl=ffffff"></a>
+      <a href="https://mapmyvisitors.com/web/1bw9o"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=xTEslr4Jl7NlkRcmESn9AwHdBuKFsQhpG-Gt5GAW8W4&cl=ffffff" /></a>
     </div>
   </div>
 </footer>
