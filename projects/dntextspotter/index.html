@@ -294,7 +294,25 @@ bulmaCarousel.attach('#results-carousel', {
 
 <section class="section">
   <div class="container is-widescreen">
-    <h2 class="title is-3">Coordinate-Related Distortion</h2>
+    <h2 class="title is-3">Network Architecture</h2>
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <image src="./static/image/networkarch.png" class="img-responsive" alt="realcamnet_network_architecture"><br>
+        <div class="content has-text-justified">
+          <p>
+            <b>DNTextSpotter:</b> The overall framework of DNTextSpotter. The model utilizes a backbone and an encoder to extract multi-scale features. The queries of the decoder can be divided into two parts: a matching part and a denoising part. The queries in the matching part are randomly initialized queries.
+    The noised queries of denoising part can be found in Noised Positional Queries and Noised Content Queries. After decoder and task-specific head, the matching part calculates loss through a bipartite graph matching algorithm, and the denoising part calculates loss directly with the ground truth.<br>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-widescreen">
+    <h2 class="title is-3">Noised Positional Queries & Noised Content Queries</h2>
     <div class="columns is-centered has-text-centered">
       <div class="column is-full">
         <image src="./static/image/lensshadingexample.png" class="img-responsive" alt="realcamnet_coordinate_related_distortion"><br>
@@ -307,26 +325,6 @@ bulmaCarousel.attach('#results-carousel', {
     </div>
   </div>
 </section>
-
-
-<section class="section">
-  <div class="container is-widescreen">
-    <h2 class="title is-3">Network Architecture</h2>
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-full">
-        <image src="./static/image/networkarch.png" class="img-responsive" alt="realcamnet_network_architecture"><br>
-        <div class="content has-text-justified">
-          <p>
-            <b>Top:</b> The architecture of RealCamNet. <br>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
 
 <section class="section">
   <div class="container is-widescreen">
