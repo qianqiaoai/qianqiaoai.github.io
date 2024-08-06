@@ -14,6 +14,7 @@ To date, I have published over 10 scholarly papers as a first author or co-autho
 ## 📖 Educations
 + Master, School of Computer Science and Technology, **Soochow University**, Suzhou, China.
 + Bachelor, School of Computer Science and Technology, **Soochow University**, Suzhou, China.
+
 ## Academic Competitions
 * **2024.06**: My collaborator Yu Xie and I won three first places and one second place in the **ICADR2024-Text Map** Challenge (ICADR is one of the most authoritative conferences in the field of OCR recognition), and we have been invited to present a technical report at ICADR2025.
 
