@@ -9,14 +9,14 @@ My name is Qian Qiao (乔谦). I am currently a master's student at Soochow Univ
 + 💬 Wechat: Joeqqqqqqq
 
 ## Research and Publications
-To date, I have published over 10 scholarly papers as a first author or co-author, and I have actively participated in the review process of top-tier conferences and journals such as AAAI, ACL, EMNLP, ACM MM, ICASSP, and PR, among others. My work primarily focuses on areas such as multimodal understanding, image generation, text spotting and few-shot learning.
+To date, I have published over **10** scholarly papers as a first author or co-author, and I have actively participated in the review process of top-tier conferences and journals such as AAAI, ACL, EMNLP, ACM MM, ICASSP and PR, among others. My work primarily focuses on areas such as multimodal understanding, image generation, text spotting and few-shot learning.
 
 ## 📖 Educations
 + Master, School of Computer Science and Technology, **Soochow University**, Suzhou, China.
 + Bachelor, School of Computer Science and Technology, **Soochow University**, Suzhou, China.
 
 ## Academic Competitions
-* **2024.06**: My collaborator Yu Xie and I won three first places and one second place in the **ICADR2024-Text Map** Challenge (ICADR is one of the most authoritative conferences in the field of OCR recognition), and we have been invited to present a technical report at ICADR2025.
+* **2024.06**: My collaborator Yu Xie and I won **three first places** and **one second place** in the **ICADR2024-Text Map** Challenge (ICADR is one of the most authoritative conferences in the field of OCR), and we have been **invited** to present a technical report at ICADR2025.
 
 ## 🔥 News
 - *2024.07*: 🎉 🔥🔥🔥 `DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training` is accepted by ACM MM 2024.
