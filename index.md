@@ -1,8 +1,8 @@
 ## About Me
 
-My name is Qian Qiao (乔谦). I am currently a master's student at Soochow University, supervised by [Jiaqing Fan](https://scst.suda.edu.cn/4c/a2/c11250a543906/page.htm) and [Fanzhang Li](https://scst.suda.edu.cn/0e/e0/c11250a528096/page.htm). My research focuses on several areas, including multimodal understanding, image generation, text spotting and few-shot learning, and I have 4 years of experience in blockchain technology and investment.
+My name is Qian Qiao (乔谦). I am currently a master's student at Soochow University, supervised by [Jiaqing Fan](https://scst.suda.edu.cn/4c/a2/c11250a543906/page.htm) and [Fanzhang Li](https://scst.suda.edu.cn/0e/e0/c11250a528096/page.htm). My research focuses on several areas, including multimodal understanding, image generation, text spotting and few-shot learning, and **I have 4 years of experience in blockchain technology and investment**. **And now I have a strong interest in action generation now and am looking for collaborators!**
 
-<i style="color:#e74d3c">I am actively looking for a Ph.D. position or research assistant (remote) in 2025 Fall. Feel free to contact me if you are interested!</i>  
+<i style="color:#e74d3c">I am actively looking for a Ph.D. position or **research assistant (remote)** in 2025 Fall. Feel free to contact me if you are interested!</i>  
 
 + 📧 Email: [joeqian@aliyun.com](mailto:joeqian@aliyun.com), [qqiao@stu.suda.edu.cn](mailto:qqiao@stu.suda.edu.cn)
 + 💬 Wechat: Joeqqqqqqq
@@ -46,4 +46,5 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 
 ## 🎖 Honors and Awards
 <!-- - *2022.09* National Scholarships for Postgraduate Students. -->
-- Subject to Further Development
+- National Scholarship, 2024 (MS. student)
+- Special Grade Scholarship, 2023 (MS. student)
