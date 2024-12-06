@@ -2,10 +2,11 @@
 
 My name is Qian Qiao (乔谦). I am currently a master's student at Soochow University, supervised by [Jiaqing Fan](https://scst.suda.edu.cn/4c/a2/c11250a543906/page.htm) and [Fanzhang Li](https://scst.suda.edu.cn/0e/e0/c11250a528096/page.htm). My research focuses on several areas, including multimodal understanding, image generation, text spotting and few-shot learning, and I have 4 years of experience in blockchain technology and investment.
 
-<i style="color:#e74d3c">I am actively looking for a Ph.D. position in 2025 Fall. Feel free to contact me if you are interested!</i>  
+<i style="color:#e74d3c">I am actively looking for a Ph.D. position or research assistant (remote) in 2025 Fall. Feel free to contact me if you are interested!</i>  
 
-+ 📧 Email: [joeqian@aliyun.com](mailto:joeqian@aliyun.com)
++ 📧 Email: [joeqian@aliyun.com](mailto:joeqian@aliyun.com), [qqiao@stu.suda.edu.cn](mailto:qqiao@stu.suda.edu.cn)
 + 💬 Wechat: Joeqqqqqqq
++ 📱 Phone: +86 18888178182
 
 ## Research and Publications
 To date, I have published over **10** scholarly papers as a first author or co-author, and I have actively participated in the review process of top-tier conferences and journals such as AAAI, ACL, EMNLP, ACM MM, ICASSP and PR, among others. My work primarily focuses on areas such as multimodal understanding, image generation, text spotting and few-shot learning.
