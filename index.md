@@ -1,11 +1,10 @@
 ## About Me
 
-My name is Qian Qiao (乔谦). I am currently a master's student at Soochow University, supervised by [Jiaqing Fan](https://scholar.google.com/citations?user=eJ_g_u4doHYC&hl=en&oi=ao) and [Fanzhang Li](https://dblp.uni-trier.de/pid/81/1136.html). My research focuses on several areas, including multimodal understanding, image generation, text spotting and few-shot learning.
+My name is Qian Qiao (乔谦). I am currently a master's student at Soochow University, supervised by [Jiaqing Fan](https://scst.suda.edu.cn/4c/a2/c11250a543906/page.htm) and [Fanzhang Li](https://scst.suda.edu.cn/0e/e0/c11250a528096/page.htm). My research focuses on several areas, including multimodal understanding, image generation, text spotting and few-shot learning, and I have 4 years of experience in blockchain technology and investment.
 
 <i style="color:#e74d3c">I am actively looking for a Ph.D. position in 2025 Fall. Feel free to contact me if you are interested!</i>  
 
 + 📧 Email: [joeqian@aliyun.com](mailto:joeqian@aliyun.com)
-<!-- + Github: [HillZhang1999](https://github.com/HillZhang1999)-->
 + 💬 Wechat: Joeqqqqqqq
 
 ## Research and Publications
@@ -13,12 +12,15 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 
 ## 📖 Educations
 + Master, School of Computer Science and Technology, **Soochow University**, Suzhou, China.
-+ Bachelor, School of Computer Science and Technology, **Soochow University**, Suzhou, China.
++ Bachelor, School of Applied Technology, **Soochow University**, Suzhou, China.
 
 ## Academic Competitions
 * **2024.06**: My collaborator Yu Xie and I won **three first places** and **one second place** in the **ICADR2024-Text Map** Challenge (ICADR is one of the most authoritative conferences in the field of OCR), and we have been **invited** to present a technical report at ICADR2025.
 
 ## 🔥 News
+- *2024.11*: 🎉 Invited by CogSci, ICME and IJCNN as Reviewer.
+- *2024.10*: 🎉 🔥🔥🔥 I honoured the national scholarship.
+- *2024.07*: 🎉 Invited by AAAI as Reviewer.
 - *2024.08*: 🎉 One paper is accepted by PRICAI 2024.
 - *2024.07*: 🎉 🔥🔥🔥 `DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training` is accepted by ACM MM 2024.
 - *2024.07*: 🎉 Invited by EMNLP as Reviewer.
