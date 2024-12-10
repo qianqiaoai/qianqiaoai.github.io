@@ -19,6 +19,7 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 * **2024.06**: My collaborator Yu Xie and I won **three first places** and **one second place** in the **ICADR2024-Text Map** Challenge (ICADR is one of the most authoritative conferences in the field of OCR), and we have been **invited** to present a technical report at ICADR2025.
 
 ## 🔥 News
+- *2024.12*: `AIM: Let Any Multimodal Large Language Models Embrace Efficient In-Context Learning` is accepted by AAAI 2024.
 - *2024.11*: 🎉 Invited by CogSci, ICME and IJCNN as Reviewer.
 - *2024.10*: 🎉 🔥🔥🔥 I honoured the national scholarship.
 - *2024.07*: 🎉 Invited by AAAI as Reviewer.
