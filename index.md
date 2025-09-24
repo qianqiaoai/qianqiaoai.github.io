@@ -1,11 +1,11 @@
 ## About Me
 
-My name is Qian Qiao (乔谦). I am currently a master's student at Soochow University, supervised by [Jiaqing Fan](https://scst.suda.edu.cn/4c/a2/c11250a543906/page.htm) and [Fanzhang Li](https://scst.suda.edu.cn/0e/e0/c11250a528096/page.htm). My research focuses on several areas, including multimodal understanding, image generation, text spotting and few-shot learning, and **I have 4 years of experience in blockchain technology and investment**. **And now I have a strong interest in motion generation and am looking for collaborators!**
+My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I received my Master's degree from Soochow University in July 2025, supervised by Professors[Jiaqing Fan](https://scst.suda.edu.cn/4c/a2/c11250a543906/page.htm) and [Fanzhang Li](https://scst.suda.edu.cn/0e/e0/c11250a528096/page.htm). My previous research focused on multimodal understanding, image generation, text spotting, and few-shot learning. Additionally, I have four years of experience in blockchain technology and investment. **Currently, my primary research interests are real-time video generation and dLLMs, and I am actively seeking collaborators in these fields!**
 
-<i style="color:#e74d3c">I will join [Weizhong Zhang](https://weizhonz.github.io/)'s team as a research assistant next year.</i>  
+<!-- <i style="color:#e74d3c">I will join [Weizhong Zhang](https://weizhonz.github.io/)'s team as a research assistant next year.</i>   -->
 
 <!-- I am actively looking for a Ph.D. position or **research assistant (remote)** in 2025 Fall. Feel free to contact me if you are interested! -->
-+ 📧 Email: [joeqian@aliyun.com](mailto:joeqian@aliyun.com), [qqiao@stu.suda.edu.cn](mailto:qqiao@stu.suda.edu.cn)
++ 📧 Email: [joeqian@aliyun.com](mailto:joeqian@aliyun.com), [qqiao@stu.suda.edu.cn](mailto:qqiao@stu.suda.edu.cn) (Since I have graduated, my academic email address will be deactivated.)
 + 💬 Wechat: Joeqqqqqqq
 + 📱 Phone: +86 18888178182
 
