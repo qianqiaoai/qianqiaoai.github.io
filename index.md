@@ -12,9 +12,13 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 ## Research and Publications
 To date, I have published over **10** scholarly papers as a first author or co-author, and I have actively participated in the review process of top-tier conferences and journals such as AAAI, ACL, EMNLP, ACM MM, ICASSP and PR, among others. My work primarily focuses on areas such as multimodal understanding, image generation, text spotting and few-shot learning.
 
-## 📖 Educations
-+ Master, School of Computer Science and Technology, **Soochow University**, Suzhou, China.
-+ Bachelor,School of Computer Science and Technology, **Soochow University**, Suzhou, China.
+<!-- ## 📖 Educations-->
+<!-- + Master, School of Computer Science and Technology, **Soochow University**, Suzhou, China.-->
+<!-- + Bachelor,School of Computer Science and Technology, **Soochow University**, Suzhou, China.-->
+## 🎖 Honors and Awards
+<!-- - *2022.09* National Scholarships for Postgraduate Students. -->
+- National Scholarship, 2024 (MS. student)
+- Special Grade Scholarship, 2023 (MS. student)
 
 ## Academic Competitions
 * **2024.06**: My collaborator Yu Xie and I won **three first places** and **one second place** in the **ICADR2024-Text Map** Challenge (ICADR is one of the most authoritative conferences in the field of OCR), and we have been **invited** to present a technical report at ICADR2024.
@@ -41,13 +45,8 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 **Yue Zhang**, Leyang Cui, Wei Bi, Shuming Shi. 2023. In **_Arxiv_**. -->
 
 ## Academic Services
-* **Reviewer**: AAAI-2023, ACM MM-2024, NIPS-2024, ACL-2024, EMNLP-2024, ICASSP-2023.
+* **Reviewer**: TCSVT, TMM, PR, ICLR, NIPS, AAAI, ACM MM, ACL-ARR, ICASSP.
 
 ## 💻 Internships
 * **2024.06 - now**, Research Intern, Soul APP, Shanghai, China.
 * **2024.02 - 2024.05**, Research Intern, bilibili Inc, Shanghai, China.
-
-## 🎖 Honors and Awards
-<!-- - *2022.09* National Scholarships for Postgraduate Students. -->
-- National Scholarship, 2024 (MS. student)
-- Special Grade Scholarship, 2023 (MS. student)
