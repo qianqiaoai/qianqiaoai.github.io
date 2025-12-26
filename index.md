@@ -48,7 +48,7 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 <table>
   <tr>
     <td style="width: 30%; vertical-align: middle; padding-right: 20px;">
-      <img src="YOUR_TEASER_IMAGE_PATH.png" alt="Teaser" style="width: 100%; border-radius: 5px;">
+      <img src="./asset/textflux.png" alt="Teaser" style="width: 100%; border-radius: 5px;">
     </td>
     <td style="vertical-align: middle;">
       <a href="https://arxiv.org/abs/2505.17778" style="font-weight: bold; font-size: 1.1em; color: black; text-decoration: none;">
@@ -64,7 +64,7 @@ To date, I have published over **10** scholarly papers as a first author or co-a
       </span>
       <br>
       <span style="font-size: 0.9em;">
-        <a href="YOUR_PROJECT_PAGE">project page</a> / 
+        <a href="https://yyyyyxie.github.io/textflux-site/">project page</a> / 
         <a href="https://arxiv.org/abs/2505.17778">arXiv</a> / 
         <a href="https://github.com/yyyyyxie/textflux">code</a>
       </span>
