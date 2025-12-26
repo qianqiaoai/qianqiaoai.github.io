@@ -89,7 +89,7 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 <table>
   <tr>
     <td style="width: 30%; vertical-align: middle; padding-right: 20px;">
-      <img src="./assets/textflux.png" alt="Teaser" style="width: 100%; border-radius: 5px;">
+      <img src="./assets/dnts.png" alt="Teaser" style="width: 100%; border-radius: 5px;">
     </td>
     <td style="vertical-align: middle;">
       <a href="https://arxiv.org/abs/2505.17778" style="font-weight: bold; font-size: 1.1em; color: black; text-decoration: none;">
@@ -112,16 +112,16 @@ To date, I have published over **10** scholarly papers as a first author or co-a
       <br>
       <div style="margin-top: 5px;">
         <img src="https://img.shields.io/badge/cs.CV-555555?style=flat-square" alt="cs.CV">
-        <a href="https://arxiv.org/abs/2505.17778">
+        <!-- <a href="https://arxiv.org/abs/2505.17778">
           <img src="https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square" alt="arXiv">
-        </a>
+        </a> -->
         <a href="https://github.com/yyyyyxie/DNTextSpotter">
           <img src="https://img.shields.io/github/stars/yyyyyxie/DNTextSpotter.svg?style=social&amp;label=Official" alt="GitHub">
         </a>
         <img src="https://img.shields.io/badge/Citations-21-007EC6?style=flat-square" alt="Citations">
-        <a href="YOUR_HF_URL">
+        <!-- <a href="YOUR_HF_URL">
           <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square" alt="HuggingFace">
-        </a>
+        </a> -->
       </div>
     </td>
   </tr>
