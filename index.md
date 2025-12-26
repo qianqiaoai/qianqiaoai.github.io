@@ -39,12 +39,11 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 - *2024.04*: 🎉 Two papers are accepted by ICME 2024.
 - *2024.03*: 🎉 Invited by MM as Program Reviewer.
 
-## 📝 Publications
-- Subject to Further Development
+
 <!-- * TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis [[paper]](https://arxiv.org/abs/2505.17778) [[repo]](https://github.com/yyyyyxie/textflux) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/icd?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/3f915aab835cbfe69e7b2ea1c73b74ac8a2d384e?fields=citationCount)](https://www.semanticscholar.org/paper/3f915aab835cbfe69e7b2ea1c73b74ac8a2d384e)<br> 
 **Yue Zhang**, Leyang Cui, Wei Bi, Shuming Shi. 2023. In **_Arxiv_**. -->
 ## 📝 Publications
-
+<!-- 1.textflux-->
 <table>
   <tr>
     <td style="width: 30%; vertical-align: middle; padding-right: 20px;">
@@ -74,7 +73,7 @@ To date, I have published over **10** scholarly papers as a first author or co-a
         <a href="https://arxiv.org/abs/2505.17778">
           <img src="https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square" alt="arXiv">
         </a>
-        <a href="YOUR_GITHUB_REPO_URL">
+        <a href="https://github.com/yyyyyxie/DNTextSpotter">
           <img src="https://img.shields.io/badge/Official-white?logo=github&labelColor=black&color=gray&style=flat-square" alt="GitHub">
         </a>
         <img src="https://img.shields.io/badge/Citations-7-007EC6?style=flat-square" alt="Citations">
@@ -86,6 +85,47 @@ To date, I have published over **10** scholarly papers as a first author or co-a
   </tr>
 </table>
 
+<!-- 2.DNts-->
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: middle; padding-right: 20px;">
+      <img src="./assets/textflux.png" alt="Teaser" style="width: 100%; border-radius: 5px;">
+    </td>
+    <td style="vertical-align: middle;">
+      <a href="https://arxiv.org/abs/2505.17778" style="font-weight: bold; font-size: 1.1em; color: black; text-decoration: none;">
+        TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis
+      </a>
+      <br>
+      <span style="font-size: 0.95em;">
+        Yu Xie, Jielei Zhang, Pengyu Chen, <strong>Qian Qiao</strong>, Zhouhui Lian
+      </span>
+      <br>
+      <span style="font-style: italic; font-size: 0.95em;">
+        EuroGraphics, 2026
+      </span>
+      <br>
+      <span style="font-size: 0.9em;">
+        <a href="https://qianqiaoai.github.io/projects/dntextspotter">project page</a> / 
+        <a href="https://arxiv.org/abs/2505.17778">arXiv</a> / 
+        <a href="https://github.com/yyyyyxie/DNTextSpotter">code</a>
+      </span>
+      <br>
+      <div style="margin-top: 5px;">
+        <img src="https://img.shields.io/badge/cs.CV-555555?style=flat-square" alt="cs.CV">
+        <a href="https://arxiv.org/abs/2505.17778">
+          <img src="https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square" alt="arXiv">
+        </a>
+        <a href="https://github.com/yyyyyxie/DNTextSpotter">
+          <img src="https://img.shields.io/badge/Official-white?logo=github&labelColor=black&color=gray&style=flat-square" alt="GitHub">
+        </a>
+        <img src="https://img.shields.io/badge/Citations-7-007EC6?style=flat-square" alt="Citations">
+        <a href="YOUR_HF_URL">
+          <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square" alt="HuggingFace">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## Academic Services
 * **Reviewer**: TCSVT, TMM, PR, ICLR, NIPS, AAAI, ACM MM, ACL-ARR, ICASSP.
