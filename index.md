@@ -48,7 +48,7 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 <table>
   <tr>
     <td style="width: 30%; vertical-align: middle; padding-right: 20px;">
-      <img src="./asset/textflux.png" alt="Teaser" style="width: 100%; border-radius: 5px;">
+      <img src="./assets/textflux.png" alt="Teaser" style="width: 100%; border-radius: 5px;">
     </td>
     <td style="vertical-align: middle;">
       <a href="https://arxiv.org/abs/2505.17778" style="font-weight: bold; font-size: 1.1em; color: black; text-decoration: none;">
