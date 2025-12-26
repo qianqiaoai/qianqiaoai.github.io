@@ -75,7 +75,7 @@ To date, I have published over **10** scholarly papers as a first author or co-a
           <img src="https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square" alt="arXiv">
         </a>
         <a href="YOUR_GITHUB_REPO_URL">
-          <img src="https://img.shields.io/badge/Official-white?logo=github&labelColor=white&color=black&style=flat-square" alt="GitHub">
+          <img src="https://img.shields.io/badge/Official-white?logo=github&labelColor=black&color=black&style=flat-square" alt="GitHub">
         </a>
         <img src="https://img.shields.io/badge/Citations-7-007EC6?style=flat-square" alt="Citations">
         <a href="YOUR_HF_URL">
