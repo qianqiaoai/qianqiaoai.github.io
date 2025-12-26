@@ -39,91 +39,114 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 - *2024.04*: 🎉 Two papers are accepted by ICME 2024.
 - *2024.03*: 🎉 Invited by MM as Program Reviewer.
 
+# 📝 Publications 
 
-## 📝 Publications
-<!-- 1.textflux-->
-<table>
-  <tr>
-    <td style="width: 30%; vertical-align: middle; padding-right: 20px;">
-      <img src="./assets/textflux.png" alt="Teaser" style="width: 100%; border-radius: 5px;">
-    </td>
-    <td style="vertical-align: middle;">
-      <a href="https://arxiv.org/abs/2505.17778" style="font-weight: bold; font-size: 1.1em; color: black; text-decoration: none;">
-        TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis
-      </a>
-      <br>
-      <span style="font-size: 0.95em;">
-        Yu Xie, Jielei Zhang, Pengyu Chen, <strong>Qian Qiao</strong>, Zhouhui Lian
-      </span>
-      <br>
-      <span style="font-style: italic; font-size: 0.95em;">
-        EuroGraphics, 2026
-      </span>
-      <br>
-      <span style="font-size: 0.9em;">
-        <a href="https://yyyyyxie.github.io/textflux-site/">project page</a> / 
-        <a href="https://arxiv.org/abs/2505.17778">arXiv</a> / 
-        <a href="https://github.com/yyyyyxie/textflux">code</a>
-      </span>
-      <br>
-      <div style="margin-top: 5px;">
-        <img src="https://img.shields.io/badge/cs.CV-555555?style=flat-square" alt="cs.CV">
-        <a href="https://arxiv.org/abs/2505.17778">
-          <img src="https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square" alt="arXiv">
-        </a>
-        <a href="https://github.com/yyyyyxie/DNTextSpotter">
-          <img src="https://img.shields.io/github/stars/yyyyyxie/textflux.svg?style=social&amp;label=Official" alt="GitHub">
-        </a>
-        <img src="https://img.shields.io/badge/Citations-7-007EC6?style=flat-square" alt="Citations">
-        <a href="YOUR_HF_URL">
-          <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square" alt="HuggingFace">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><video src="https://github.com/user-attachments/assets/e55952e6-e1b2-44a5-9887-a89307a378da" width="320" controls loop></video></div></div>
+<div class='paper-box-text' markdown="1">
 
-<!-- 2.DNts-->
-<table>
-  <tr>
-    <td style="width: 30%; vertical-align: middle; padding-right: 20px;">
-      <img src="./assets/dnts.png" alt="Teaser" style="width: 100%; border-radius: 5px;">
-    </td>
-    <td style="vertical-align: middle;">
-      <a href="https://arxiv.org/abs/2505.17778" style="font-weight: bold; font-size: 1.1em; color: black; text-decoration: none;">
-        TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis
-      </a>
-      <br>
-      <span style="font-size: 0.95em;">
-        Yu Xie, Jielei Zhang, Pengyu Chen, <strong>Qian Qiao</strong>, Zhouhui Lian
-      </span>
-      <br>
-      <span style="font-style: italic; font-size: 0.95em;">
-        ACM MM, 2024
-      </span>
-      <br>
-      <span style="font-size: 0.9em;">
-        <a href="https://qianqiaoai.github.io/projects/dntextspotter">project page</a> / 
-        <a href="https://qianqiaoai.github.io/projects/dntextspotter/DNTextSpotter.pdf">arXiv</a> / 
-        <a href="https://github.com/yyyyyxie/DNTextSpotter">code</a>
-      </span>
-      <br>
-      <div style="margin-top: 5px;">
-        <img src="https://img.shields.io/badge/cs.CV-555555?style=flat-square" alt="cs.CV">
-        <!-- <a href="https://arxiv.org/abs/2505.17778">
-          <img src="https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square" alt="arXiv">
-        </a> -->
-        <a href="https://github.com/yyyyyxie/DNTextSpotter">
-          <img src="https://img.shields.io/github/stars/yyyyyxie/DNTextSpotter.svg?style=social&amp;label=Official" alt="GitHub">
-        </a>
-        <img src="https://img.shields.io/badge/Citations-21-007EC6?style=flat-square" alt="Citations">
-        <!-- <a href="YOUR_HF_URL">
-          <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square" alt="HuggingFace">
-        </a> -->
-      </div>
-    </td>
-  </tr>
-</table>
+- Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation,
+
+  **Zhe Kong** *, Feng Gao *, Yong Zhang, Zhuoliang Kang, Xiaoming Wei, Xunliang Cai, Guanying Chen, Wenhan Luo
+
+  *Conference on Neural Information Processing Systems (NeurIPS), 2025.*
+
+  [**[arxiv]**](https://arxiv.org/abs/2505.22647) [**[code]**](https://github.com/MeiGen-AI/MultiTalk) [**[project]**](https://meigen-ai.github.io/multi-talk/)  [![GitHub](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social)](https://github.com/MeiGen-AI/MultiTalk)
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/infinitetalk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing,
+
+  Shaoshu Yang *, **Zhe Kong** *, Feng Gao *, Meng Cheng *, Xiangyu Liu *, Yong Zhang, Zhuoliang Kang, Wenhan Luo, Xunliang Cai, Ran He, Xiaoming Wei
+
+  *Technical Report, 2025.*
+
+  [**[arxiv]**](https://arxiv.org/abs/2508.14033) [**[code]**](https://github.com/MeiGen-AI/InfiniteTalk) [**[project]**](https://meigen-ai.github.io/InfiniteTalk/)  [![GitHub](https://img.shields.io/github/stars/MeiGen-AI/InfiniteTalk?style=social)](https://github.com/MeiGen-AI/InfiniteTalk)
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH 2025</div><img src='images/paper/dam-vsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution,
+
+  **Zhe Kong**, Le Li, Yong Zhang, Feng Gao, Shaoshu Yang, Tao Wang, Kaihao Zhang, Zhuoliang Kang, Xiaoming Wei, Guanying Chen, Wenhan Luo
+
+  *ACM SIGGRAPH, 2025.*
+
+  [**[arxiv]**](https://arxiv.org/abs/2507.01012)  [**[code]**](https://github.com/kongzhecn/DAM-VSR)  [**[project]**](https://kongzhecn.github.io/projects/dam-vsr/)  [![GitHub](https://img.shields.io/github/stars/kongzhecn/DAM-VSR?style=social)](https://github.com/kongzhecn/DAM-VSR)
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/paper/omg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models,
+
+  **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo, 
+
+  *European Conference on Computer Vision (ECCV), 2024.*
+
+  [**[arxiv]**](https://arxiv.org/abs/2403.10983) [**[code]**](https://github.com/kongzhecn/OMG) [**[project]**](https://kongzhecn.github.io/omg-project/) [**[huggingFace demo]**](https://huggingface.co/spaces/Fucius/OMG)  [![GitHub](https://img.shields.io/github/stars/kongzhecn/OMG?style=social)](https://github.com/kongzhecn/OMG)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/paper/DTDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Dual Teacher Knowledge Distillation with Domain Alignment for Face Anti-spoofing,
+
+  **Zhe Kong**, Wentian Zhang, Tao Wang, Kaihao Zhang, Yuexiang Li, Xiaoying Tang, Wenhan Luo,
+
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.*
+
+  [**[paper]**](https://ieeexplore.ieee.org/document/10654388) [**[arxiv]**](https://arxiv.org/abs/2401.01102)
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/paper/dfdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing,
+  
+  **Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra,
+
+  *IEEE Transactions on Neural Networks and learning systems (TNNLS), 2023.*
+
+  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[arxiv]**](https://arxiv.org/abs/2109.04100) [**[code]**](https://github.com/kongzhecn/dfdm)  [![GitHub](https://img.shields.io/github/stars/kongzhecn/dfdm?style=social)](https://github.com/kongzhecn/dfdm)
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/paper/cfd-pad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising,
+
+  Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen,
+
+  *IEEE Transactions on Information Forensics and Security (TIFS), 2022.*
+
+  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[arxiv]**](https://arxiv.org/abs/2111.07620) [**[code]**](https://github.com/kongzhecn/cfd-pad)  [![GitHub](https://img.shields.io/github/stars/kongzhecn/cfd-pad?style=social)](https://github.com/kongzhecn/cfd-pad) 
+  
+</div>
+</div>
+
+
 
 ## Academic Services
 * **Reviewer**: TCSVT, TMM, PR, ICLR, NIPS, AAAI, ACM MM, ACL-ARR, ICASSP.
