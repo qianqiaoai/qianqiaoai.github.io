@@ -65,11 +65,8 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 
   *EuroGraphics, 2026.*
 
-  [**[arxiv]**](https://arxiv.org/abs/2505.17778) 
-  [**[code]**](https://github.com/yyyyyxie/textflux) 
-  [**[project]**](https://yyyyyxie.github.io/textflux-site/https://yyyyyxie.github.io/textflux-site/) 
-  [![Arxiv]](https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square) 
-  [![GitHub](https://img.shields.io/github/stars/yyyyyxie/textflux.svg?style=social&amp;label=Official)](https://github.com/yyyyyxie/textflux) 
+  [**[arxiv]**](https://arxiv.org/abs/2505.17778) [**[code]**](https://github.com/yyyyyxie/textflux) [**[project]**](https://yyyyyxie.github.io/textflux-site/) 
+  [![Arxiv]](https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square) [![GitHub](https://img.shields.io/github/stars/yyyyyxie/textflux.svg?style=social&amp;label=Official)](https://github.com/yyyyyxie/textflux) 
   [![Citations](https://img.shields.io/badge/Citations-7-007EC6?style=flat-square)](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=TextFlux%3A+An+OCR-Free+DiT+Model+for+High-Fidelity+Multilingual+Scene+Text+Synthesis&btnG=) 
   [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square)](https://huggingface.co/yyyyyxie/textflux)
 
@@ -124,8 +121,8 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 * **2024.02 - 2024.05**, Research Intern, bilibili Inc, Shanghai, China.
 
 # 🎖 Honors and Awards
-- 2025 Outstanding Graduate Award (Rate<5%)
 - National Scholarship, 2024 (MS. student)
+- Outstanding Graduate Award, 2025 (Rate<5%)
 - Special Grade Scholarship, 2023 (MS. student)
 
 # Visitors
