@@ -40,9 +40,6 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 - *2024.03*: 🎉 Invited by MM as Program Reviewer.
 
 
-<!-- * TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis [[paper]](https://arxiv.org/abs/2505.17778) [[repo]](https://github.com/yyyyyxie/textflux) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/icd?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/3f915aab835cbfe69e7b2ea1c73b74ac8a2d384e?fields=citationCount)](https://www.semanticscholar.org/paper/3f915aab835cbfe69e7b2ea1c73b74ac8a2d384e)<br> 
-**Yue Zhang**, Leyang Cui, Wei Bi, Shuming Shi. 2023. In **_Arxiv_**. -->
-
 ## 📝 Publications
 <!-- 1.textflux-->
 <table>
