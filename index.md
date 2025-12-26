@@ -101,12 +101,12 @@ To date, I have published over **10** scholarly papers as a first author or co-a
       </span>
       <br>
       <span style="font-style: italic; font-size: 0.95em;">
-        EuroGraphics, 2026
+        ACM MM, 2024
       </span>
       <br>
       <span style="font-size: 0.9em;">
         <a href="https://qianqiaoai.github.io/projects/dntextspotter">project page</a> / 
-        <a href="https://arxiv.org/abs/2505.17778">arXiv</a> / 
+        <a href="https://qianqiaoai.github.io/projects/dntextspotter/DNTextSpotter.pdf">arXiv</a> / 
         <a href="https://github.com/yyyyyxie/DNTextSpotter">code</a>
       </span>
       <br>
@@ -116,7 +116,7 @@ To date, I have published over **10** scholarly papers as a first author or co-a
           <img src="https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square" alt="arXiv">
         </a>
         <a href="https://github.com/yyyyyxie/DNTextSpotter">
-          <img src="https://img.shields.io/badge/Official-white?logo=github&labelColor=black&color=gray&style=flat-square" alt="GitHub">
+          <img src="https://img.shields.io/github/stars/yyyyyxie/DNTextSpotter.svg?style=social&amp;label=Official" alt="GitHub">
         </a>
         <img src="https://img.shields.io/badge/Citations-7-007EC6?style=flat-square" alt="Citations">
         <a href="YOUR_HF_URL">
