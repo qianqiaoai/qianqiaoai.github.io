@@ -48,7 +48,7 @@ To date, I have published over **10** scholarly papers as a first author or co-a
 <table>
   <tr>
     <td style="width: 30%; vertical-align: middle; padding-right: 20px;">
-      <img src="YOUR_TEASER_IMAGE_PATH.png" alt="Teaser Image" style="width: 100%; border-radius: 5px;">
+      <img src="YOUR_TEASER_IMAGE_PATH.png" alt="Teaser" style="width: 100%; border-radius: 5px;">
     </td>
     <td style="vertical-align: middle;">
       <a href="https://arxiv.org/abs/2505.17778" style="font-weight: bold; font-size: 1.1em; color: black; text-decoration: none;">
@@ -64,22 +64,23 @@ To date, I have published over **10** scholarly papers as a first author or co-a
       </span>
       <br>
       <span style="font-size: 0.9em;">
-        <a href="YOUR_PROJECT_PAGE_URL">project page</a> / 
+        <a href="YOUR_PROJECT_PAGE">project page</a> / 
         <a href="https://arxiv.org/abs/2505.17778">arXiv</a> / 
-        <a href="YOUR_CODE_URL">code</a>
+        <a href="https://github.com/yyyyyxie/textflux">code</a>
       </span>
       <br>
-      <div style="margin-top: 5px;">
-        <img src="https://img.shields.io/badge/cs.CV-555555?style=flat-square" alt="cs.CV">
+      
+      <div style="margin-top: 8px;">
         <a href="https://arxiv.org/abs/2505.17778">
           <img src="https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square" alt="arXiv">
         </a>
-        <a href="YOUR_GITHUB_REPO_URL">
-          <img src="https://img.shields.io/badge/Official-white?logo=github&labelColor=white&color=gray&style=flat-square" alt="GitHub">
+
+        <a href="https://github.com/yyyyyxie/textflux">
+          <img src="https://img.shields.io/github/stars/yyyyyxie/textflux?style=flat-square&logo=github&label=Stars&color=black&logoColor=white" alt="GitHub Stars">
         </a>
-        <img src="https://img.shields.io/badge/Citations-7-007EC6?style=flat-square" alt="Citations">
-        <a href="YOUR_HF_URL">
-          <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square" alt="HuggingFace">
+
+        <a href="https://www.semanticscholar.org/paper/3f915aab835cbfe69e7b2ea1c73b74ac8a2d384e">
+          <img src="https://img.shields.io/badge/dynamic/json?label=Citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3f915aab835cbfe69e7b2ea1c73b74ac8a2d384e%3Ffields%3DcitationCount&color=007EC6&style=flat-square" alt="Citations">
         </a>
       </div>
     </td>
