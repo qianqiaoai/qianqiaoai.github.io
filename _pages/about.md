@@ -66,7 +66,7 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
   *EuroGraphics, 2026.*
 
   [**[arxiv]**](https://arxiv.org/abs/2505.17778) [**[code]**](https://github.com/yyyyyxie/textflux) [**[project]**](https://yyyyyxie.github.io/textflux-site/) 
-  [![Arxiv]](https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square) 
+  [![Arxiv](https://img.shields.io/badge/arXiv-2505.17778-B31B1B?style=flat-square)](https://arxiv.org/abs/2505.17778)
   [![GitHub](https://img.shields.io/github/stars/yyyyyxie/textflux.svg?style=social&amp;label=Official)](https://github.com/yyyyyxie/textflux) [![Citations](https://img.shields.io/badge/Citations-7-007EC6?style=flat-square)](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=TextFlux%3A+An+OCR-Free+DiT+Model+for+High-Fidelity+Multilingual+Scene+Text+Synthesis&btnG=) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square)](https://huggingface.co/yyyyyxie/textflux)
 
 
@@ -99,11 +99,9 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 
   *Technical Report, 2025.*
 
-  [**[arxiv]**](https://arxiv.org/pdf/2506.09482) 
-  [**[code]**](https://github.com/TransDiff/TransDiff) 
+  [**[arxiv]**](https://arxiv.org/pdf/2506.09482) [**[code]**](https://github.com/TransDiff/TransDiff) 
   <!-- [**[project]**](https://qqq.github.io/omg-project/)  -->
-  [![GitHub](https://img.shields.io/github/stars/TransDiff/TransDiff.svg?style=social&amp;label=Official)](https://github.com/TransDiff/TransDiff)
-  [![Citations](https://img.shields.io/badge/Citations-1-007EC6?style=flat-square)](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Marrying+Autoregressive+Transformer+and+Diffusion+with+Multi-Reference+Autoregression&btnG=)
+  [![GitHub](https://img.shields.io/github/stars/TransDiff/TransDiff.svg?style=social&amp;label=Official)](https://github.com/TransDiff/TransDiff) [![Citations](https://img.shields.io/badge/Citations-1-007EC6?style=flat-square)](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Marrying+Autoregressive+Transformer+and+Diffusion+with+Multi-Reference+Autoregression&btnG=)
 </div>
 </div>
 
