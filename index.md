@@ -118,7 +118,7 @@ To date, I have published over **10** scholarly papers as a first author or co-a
         <a href="https://github.com/yyyyyxie/DNTextSpotter">
           <img src="https://img.shields.io/github/stars/yyyyyxie/DNTextSpotter.svg?style=social&amp;label=Official" alt="GitHub">
         </a>
-        <img src="https://img.shields.io/badge/Citations-7-007EC6?style=flat-square" alt="Citations">
+        <img src="https://img.shields.io/badge/Citations-21-007EC6?style=flat-square" alt="Citations">
         <a href="YOUR_HF_URL">
           <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square" alt="HuggingFace">
         </a>
