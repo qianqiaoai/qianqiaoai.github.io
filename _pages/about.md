@@ -19,7 +19,9 @@ redirect_from:
 
 
 
-My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I received my Master's degree from Soochow University in July 2025, supervised by Professors [Fanzhang Li](https://scst.suda.edu.cn/0e/e0/c11250a528096/page.htm). My previous research focused on multimodal understanding, image generation, text spotting, and few-shot learning. Additionally, I have four years of experience in blockchain technology and investment. **Currently, my primary research interests are real-time video generation and dLLMs, and I am actively seeking collaborators in these fields!**
+My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I received M.Sc. and B.Eng. from Soochow University, advised by Professors [Fanzhang Li](https://scst.suda.edu.cn/0e/e0/c11250a528096/page.htm). My previous research focused on multimodal understanding, image generation, text spotting, and few-shot learning. Additionally, I have four years of experience in blockchain technology and investment. 
+
+**Currently, I also lead a research team, focus on: diffusion language models, real-time video generation, and multimodal models. And I am actively seeking collaborators in these fields!**
 
 
 # 🔥 News
@@ -98,8 +100,9 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 
 # 💻 Internships
 <!-- - <img src="images/tencent_ailab.jpg" alt="sym" width="4%"> *2024.04 - 2024.09*, [AI Lab CVC](https://github.com/AILab-CVC), Tencent, Research Intern, supervised by Dr. [Yong Zhang](https://yzhang2016.github.io/) -->
-* **2024.06 - 2024.10**, Research Intern, Soul APP, Shanghai, China.
-* **2024.02 - 2024.05**, Research Intern, bilibili Inc, Shanghai, China.
+- <img src="images/b_logo.png" alt="sym" width="4%"> *2024.02 - 2024.05*, Research Intern, bilibili Inc, Shanghai, China.
+- <img src="images/s_logo.png" alt="sym" width="4%"> *2024.06 - 2024.10*, Research Intern, Soul AILab, Shanghai, China.
+
 
 
 # Visitors
