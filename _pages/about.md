@@ -91,7 +91,7 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper/aim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper/aim.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - AIM: Let Any Multi-modal Large Language Models Embrace Efficient In-Context Learning
