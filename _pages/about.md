@@ -49,7 +49,7 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 
 - TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis,
 
-  Yu Xie, Jielei Zhang, **Qian Qiao**, Zhouhui Lian
+  Yu Xie, Jielei Zhang, **Qian Qiao**$$^#$$, Zhouhui Lian
 
   *EuroGraphics, 2026.*
 
@@ -60,27 +60,14 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 </div>
 </div>
 
-# Other Publications
-Talds-net: Task-aware adaptive local descriptors selection for few-shot image classification
-AIM: Let Any Multi-modal Large Language Models Embrace Efficient In-Context Learning
-A Lie group Laplacian Support Vector Machine for semi-supervised learning
-Deeptts: Enhanced transformer-based text spotter via deep interaction between detection and recognition tasks
-Large Language Model Compression with Global Rank and Sparsity Optimization
-QPruner: Probabilistic Decision Quantization for Structured Pruning in Large Language Models
-BVRCC: Bootstrapping Video Retrieval via Cross-Matching Correction
-Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model
-RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer
-STRA: A Simple Token Replacement Strategy Alleviating Exposure Bias in Text Generation
-Adaptive Feature Representation Based On Contrastive Learning For Few-Shot Classification
-PMGCN: Preserving Measuring Mapping Prototype Graph Calibration Network for Few-Shot Learning
-Efficient fine-tuning of quantized models via adaptive rank and bitwidth
+
 <!-- tradiff 希望cvpr能中 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/transdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression
 
-  Dingcheng Zhen', **Qian Qiao'**, Tan Yu, Xu Zhen, Kangxi Wu,
+  Dingcheng Zhen $$^*$$, **Qian Qiao**$$^*$$, Tan Yu$$^*$$, Xu Zhen, Kangxi Wu,
 
   *Technical Report, 2025.*
 
@@ -103,6 +90,45 @@ Efficient fine-tuning of quantized models via adaptive rank and bitwidth
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper/aim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- AIM: Let Any Multi-modal Large Language Models Embrace Efficient In-Context Learning
+
+  Jun Gao, **Qian Qiao**, Zili Wang, Ziqiang Cao, Wenjie Li
+
+  *AAAI, 2025.*
+
+ [![Citations](https://img.shields.io/badge/Citations-10-007EC6?style=flat-square)](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=AIM%3A+Let+Any+Multi-modal+Large+Language+Models+Embrace+Efficient+In-Context+Learning&btnG=)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/paper/icassp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Talds-net: Task-aware adaptive local descriptors selection for few-shot image classification
+
+  **Qian Qiao**, Yu Xie, Ziyin Zeng, Fanzhang Li
+
+  *ICASSP, 2024.*
+
+  [**[arxiv]**](https://arxiv.org/pdf/2312.05449)  [**[code]**](https://github.com/QianJoe/TAL-Net)   [![GitHub](https://img.shields.io/github/stars/QianJoe/TAL-Net.svg?style=social&amp;label=Official)](https://github.com/QianJoe/TAL-Net)  [![Citations](https://img.shields.io/badge/Citations-22-007EC6?style=flat-square)](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=TALDS-NET%3A+TASK-AWARE+ADAPTIVE+LOCAL+DESCRIPTORS+SELECTION+FOR+FEW-SHOT+IMAGE+CLASSIFICATION&btnG=)
+  [![Arxiv](https://img.shields.io/badge/arXiv-2312.05449-B31B1B?style=flat-square)](https://arxiv.org/abs/2312.05449)
+
+</div>
+</div>
+
+# Other Publications
+- A Lie group Laplacian Support Vector Machine for semi-supervised learning
+- Deeptts: Enhanced transformer-based text spotter via deep interaction between detection and recognition tasks
+- Large Language Model Compression with Global Rank and Sparsity Optimization
+- QPruner: Probabilistic Decision Quantization for Structured Pruning in Large Language Models
+- BVRCC: Bootstrapping Video Retrieval via Cross-Matching Correction
+- Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model
+- STRA: A Simple Token Replacement Strategy Alleviating Exposure Bias in Text Generation
+- Efficient fine-tuning of quantized models via adaptive rank and bitwidth
 
 # 🎖 Honors and Awards
 - National Scholarship, 2024 (MS. student)
