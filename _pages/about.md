@@ -100,7 +100,7 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 
   *AAAI, 2025.*
 
- [![Citations](https://img.shields.io/badge/Citations-10-007EC6?style=flat-square)](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=AIM%3A+Let+Any+Multi-modal+Large+Language+Models+Embrace+Efficient+In-Context+Learning&btnG=)
+  [![Citations](https://img.shields.io/badge/Citations-10-007EC6?style=flat-square)](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=AIM%3A+Let+Any+Multi-modal+Large+Language+Models+Embrace+Efficient+In-Context+Learning&btnG=)
 
 </div>
 </div>
