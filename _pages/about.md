@@ -60,6 +60,20 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 </div>
 </div>
 
+# Other Publications
+Talds-net: Task-aware adaptive local descriptors selection for few-shot image classification
+AIM: Let Any Multi-modal Large Language Models Embrace Efficient In-Context Learning
+A Lie group Laplacian Support Vector Machine for semi-supervised learning
+Deeptts: Enhanced transformer-based text spotter via deep interaction between detection and recognition tasks
+Large Language Model Compression with Global Rank and Sparsity Optimization
+QPruner: Probabilistic Decision Quantization for Structured Pruning in Large Language Models
+BVRCC: Bootstrapping Video Retrieval via Cross-Matching Correction
+Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model
+RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer
+STRA: A Simple Token Replacement Strategy Alleviating Exposure Bias in Text Generation
+Adaptive Feature Representation Based On Contrastive Learning For Few-Shot Classification
+PMGCN: Preserving Measuring Mapping Prototype Graph Calibration Network for Few-Shot Learning
+Efficient fine-tuning of quantized models via adaptive rank and bitwidth
 <!-- tradiff 希望cvpr能中 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/transdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
