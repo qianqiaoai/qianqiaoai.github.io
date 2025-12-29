@@ -115,7 +115,7 @@ Efficient fine-tuning of quantized models via adaptive rank and bitwidth
 # 💻 Internships
 <!-- - <img src="images/tencent_ailab.jpg" alt="sym" width="4%"> *2024.04 - 2024.09*, [AI Lab CVC](https://github.com/AILab-CVC), Tencent, Research Intern, supervised by Dr. [Yong Zhang](https://yzhang2016.github.io/) -->
 - <img src="images/b_logo.png" alt="sym" width="4%"> *2024.02 - 2024.05*, Research Intern, bilibili Inc, Shanghai, China.
-- <img src="images/s_logo.png" alt="sym" width="4%"> *2024.06 - 2024.10*, Research Intern, Soul AILab, Shanghai, China.
+- <img src="images/soul_logo.png" alt="sym" width="4%"> *2024.06 - 2024.10*, Research Intern, Soul AILab, Shanghai, China.
 
 
 
