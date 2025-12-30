@@ -49,7 +49,7 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 
 - TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis,
 
-  Yu Xie, Jielei Zhang, **Qian Qiao**$$^#$$, Zhouhui Lian
+  Yu Xie, Jielei Zhang, **Qian Qiao**$$^\#$$, Zhouhui Lian
 
   *EuroGraphics, 2026.*
 
