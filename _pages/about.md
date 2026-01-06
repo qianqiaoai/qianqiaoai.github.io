@@ -25,6 +25,7 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 
 
 # 🔥 News
+- *2025.01*: 🎉 Invited by ICME as AC.
 - *2025.01*: 🎉 `QPruner:ProbabilisticDecision Quantization for StructuredPruning in Large Language Models` is accepted by NAACL 2025.
 - *2024.12*: 🎉 `AIM: Let Any Multimodal Large Language Models Embrace Efficient In-Context Learning` is accepted by AAAI 2024.
 - *2024.11*: 🎉 Invited by CogSci, ICME and IJCNN as Reviewer.
@@ -164,6 +165,8 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 
 </div>
 </div>
+
+
 # Other Publications
 - Large Language Model Compression with Global Rank and Sparsity Optimization
 - BVRCC: Bootstrapping Video Retrieval via Cross-Matching Correction
