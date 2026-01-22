@@ -23,6 +23,7 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 
 **Currently, I also lead a research team, focus on: diffusion language models, real-time video generation, and multimodal models. And I am actively seeking collaborators in these fields!**
 
+**Feel free to reach me at 188888178182 or on WeChat (ID: Joeqqqqqqqq).**
 
 # 🔥 News
 - *2025.01*: 🎉 Invited by ICME as AC.
