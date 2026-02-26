@@ -16,7 +16,7 @@
 # Site Settings
 title                    : "Qiao's Home Page"
 description              : "My girlfriend and I have a cute cat 🐱 named Yuanbao (元宝)."
-repository               : "qianqianai/qianqianai.github.io"
+repository               : "qianqiaoai/qianqiaoai.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -45,7 +45,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qianqianai"
+  github           : "qianqiaoai"
   google_plus      :
   keybase          :
   instagram        :
