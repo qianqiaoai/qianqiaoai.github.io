@@ -23,7 +23,7 @@ My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I rece
 
 **Currently, I also lead a research team, focus on: diffusion language models, real-time video generation, and multimodal models. And I am actively seeking collaborators in these fields!**
 
-**Feel free to reach me at joeqian@aliyun.com or on WeChat (ID: Joeqqqqqqqq).**
+**Feel free to reach me at joeqian@aliyun.com or on WeChat (ID: Joeqqqqqqq).**
 
 # 🔥 News
 - *2026.02*: 🎉 🔥🔥🔥 We have open-sourced another audio-driven real-time streaming digital human project: the model **SoulX-FlashHead** (trained on the [**VividHead**](https://huggingface.co/datasets/Soul-AILab/VividHead) dataset) ([GitHub](https://github.com/Soul-AILab/SoulX-FlashHead), [Hugging Face](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B)), currently **ranked #1** on Hugging Face in the image-to-video category. Welcome to check it out!
