@@ -21,7 +21,7 @@ redirect_from:
 
 My name is Qian Qiao (乔谦). I am currently a researcher at Soul AILab. I received M.Sc. and B.Eng. from Soochow University, advised by Professors [Fanzhang Li](https://scst.suda.edu.cn/0e/e0/c11250a528096/page.htm). My previous research focused on multimodal understanding, image generation, text spotting, and few-shot learning. Additionally, I have four years of experience in blockchain technology and investment. 
 
-**Currently, I also lead a research team, focus on: diffusion language models, real-time video generation, and multimodal models. And I am actively seeking collaborators in these fields!**
+**Currently, I also lead a research team [**OpenWPLab**](https://openwplab.github.io/), focus on: diffusion language models, real-time video generation, and multimodal models. And I am actively seeking collaborators in these fields!**
 
 **Feel free to reach me at joeqian@aliyun.com or on WeChat (ID: Joeqqqqqqq).**
 
