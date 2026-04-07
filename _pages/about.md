@@ -28,7 +28,7 @@ My name is Qian Qiao (乔谦). I am currently an **Independent Researcher**. I r
 <!-- 🔥🔥🔥 **I am actively seeking job opportunities!** -->
 
 # 🔥 News
-- *2026.02*: 🎉 🔥🔥🔥 3 papers are accepted by ACL 2026.
+- *2026.04*: 🎉 🔥🔥🔥 3 papers are accepted by ACL 2026.
 <!-- - *2026.02*: 🎉 🔥🔥🔥 We have open-sourced another audio-driven real-time streaming digital human project: the model **SoulX-FlashHead** (trained on the [**VividHead**](https://huggingface.co/datasets/Soul-AILab/VividHead) dataset) ([GitHub](https://github.com/Soul-AILab/SoulX-FlashHead), [Hugging Face](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B)), currently **ranked #1** on Hugging Face in the image-to-video category. Welcome to check it out! -->
 - *2026.02*: 🎉 `TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis` is accepted by EUROGRAPHICS 2026.
 - *2026.01*: 🎉 `Large Language Model Compression with Global Rank and Sparsity Optimization` is accepted by ICLR 2026.
