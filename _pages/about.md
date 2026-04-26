@@ -29,10 +29,10 @@ My name is Qian Qiao (乔谦). I am currently an **Independent Researcher**. I r
 
 # 🔥 News
 - *2026.04*: 🎉 🔥🔥🔥 3 papers are accepted by ACL 2026.
-<!-- - *2026.02*: 🎉 🔥🔥🔥 We have open-sourced another audio-driven real-time streaming digital human project: the model **SoulX-FlashHead** (trained on the [**VividHead**](https://huggingface.co/datasets/Soul-AILab/VividHead) dataset) ([GitHub](https://github.com/Soul-AILab/SoulX-FlashHead), [Hugging Face](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B)), currently **ranked #1** on Hugging Face in the image-to-video category. Welcome to check it out! -->
+- *2026.02*: 🎉 🔥🔥🔥 We have open-sourced another audio-driven real-time streaming digital human project: the model **SoulX-FlashHead** (trained on the [**VividHead**](https://huggingface.co/datasets/Soul-AILab/VividHead) dataset) ([GitHub](https://github.com/Soul-AILab/SoulX-FlashHead), [Hugging Face](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B)), currently **ranked #1** on Hugging Face in the image-to-video category. Welcome to check it out!
 - *2026.02*: 🎉 `TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis` is accepted by EUROGRAPHICS 2026.
 - *2026.01*: 🎉 `Large Language Model Compression with Global Rank and Sparsity Optimization` is accepted by ICLR 2026.
-<!-- - *2025.12*: 🎉 🔥🔥🔥 We open-sourced audio-driven real-time streaming digital human projects: **SoulX-FlashTalk** ([GitHub](https://github.com/Soul-AILab/SoulX-FlashTalk), [Hugging Face](https://huggingface.co/Soul-AILab/SoulX-FlashTalk-14B)), which has received **widespread attention** on Hugging Face's image-to-video projects; the GitHub repo has reached **1k+ stars**. -->
+- *2025.12*: 🎉 🔥🔥🔥 We open-sourced audio-driven real-time streaming digital human projects: **SoulX-FlashTalk** ([GitHub](https://github.com/Soul-AILab/SoulX-FlashTalk), [Hugging Face](https://huggingface.co/Soul-AILab/SoulX-FlashTalk-14B)), which has received **widespread attention** on Hugging Face's image-to-video projects; the GitHub repo has reached **1k+ stars**.
 - *2025.12*: 🎉 Invited by ICME as AC.
 - *2025.01*: 🎉 `QPruner:ProbabilisticDecision Quantization for StructuredPruning in Large Language Models` is accepted by NAACL 2025.
 - *2024.12*: 🎉 `AIM: Let Any Multimodal Large Language Models Embrace Efficient In-Context Learning` is accepted by AAAI 2024.
@@ -54,35 +54,35 @@ My name is Qian Qiao (乔谦). I am currently an **Independent Researcher**. I r
 <!-- 风格: 右边：pipeline/可视化图，右边上下排列：title，作者， 会议/期刊名，(arxiv,)-->
 <!-- 2026出版的 -->
 
-<!-- SoulX-FlashHead: 图片占位 -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/flashhead.png' alt="sym" width="100%"></div></div> -->
-<!-- <div class='paper-box-text' markdown="1"> -->
+SoulX-FlashHead: 图片占位
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/flashhead.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<!-- - SoulX-FlashHead: Oracle-Guided Real-Time Streaming Talking Head, -->
+- SoulX-FlashHead: Oracle-Guided Real-Time Streaming Talking Head,
 
-  <!-- Soul AILab. Trained on the VividHead dataset. -->
+  Soul AILab. Trained on the VividHead dataset.
 
-  <!-- *Soul AILab, 2026.* -->
+  *Soul AILab, 2026.*
 
-  <!-- [**[arxiv]**](https://arxiv.org/abs/2602.07449) [**[GitHub]**](https://github.com/Soul-AILab/SoulX-FlashHead) [**[Hugging Face]**](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B) [**[VividHead Dataset]**](https://huggingface.co/datasets/Soul-AILab/VividHead) [![GitHub](https://img.shields.io/github/stars/Soul-AILab/SoulX-FlashHead.svg?style=social&amp;label=Official)](https://github.com/Soul-AILab/SoulX-FlashHead) [![Arxiv](https://img.shields.io/badge/arXiv-2602.07449-B31B1B?style=flat-square)](https://arxiv.org/abs/2602.07449) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square)](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B) -->
+  [**[arxiv]**](https://arxiv.org/abs/2602.07449) [**[GitHub]**](https://github.com/Soul-AILab/SoulX-FlashHead) [**[Hugging Face]**](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B) [**[VividHead Dataset]**](https://huggingface.co/datasets/Soul-AILab/VividHead) [![GitHub](https://img.shields.io/github/stars/Soul-AILab/SoulX-FlashHead.svg?style=social&amp;label=Official)](https://github.com/Soul-AILab/SoulX-FlashHead) [![Arxiv](https://img.shields.io/badge/arXiv-2602.07449-B31B1B?style=flat-square)](https://arxiv.org/abs/2602.07449) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square)](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B)
 
-<!-- </div> -->
-<!-- </div> -->
+</div>
+</div>
 
 <!-- SoulX-FlashTalk: 图片占位 -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/flashtalk.png' alt="sym" width="100%"></div></div> -->
-<!-- <div class='paper-box-text' markdown="1"> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/flashtalk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<!-- - SoulX-FlashTalk: Audio-Driven Real-Time Streaming Digital Human, -->
+- SoulX-FlashTalk: Audio-Driven Real-Time Streaming Digital Human,
 
-  <!-- Soul AILab -->
+  Soul AILab
 
-  <!-- *Soul AILab, 2026.* -->
+  *Soul AILab, 2026.*
 
-  <!-- [**[arxiv]**](https://arxiv.org/abs/2512.23379) [**[GitHub]**](https://github.com/Soul-AILab/SoulX-FlashTalk) [**[Hugging Face]**](https://huggingface.co/Soul-AILab/SoulX-FlashTalk-14B) [![GitHub](https://img.shields.io/github/stars/Soul-AILab/SoulX-FlashTalk.svg?style=social&amp;label=Official)](https://github.com/Soul-AILab/SoulX-FlashTalk) [![Arxiv](https://img.shields.io/badge/arXiv-2512.23379-B31B1B?style=flat-square)](https://arxiv.org/abs/2512.23379) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square)](https://huggingface.co/Soul-AILab/SoulX-FlashTalk-14B) -->
+  [**[arxiv]**](https://arxiv.org/abs/2512.23379) [**[GitHub]**](https://github.com/Soul-AILab/SoulX-FlashTalk) [**[Hugging Face]**](https://huggingface.co/Soul-AILab/SoulX-FlashTalk-14B) [![GitHub](https://img.shields.io/github/stars/Soul-AILab/SoulX-FlashTalk.svg?style=social&amp;label=Official)](https://github.com/Soul-AILab/SoulX-FlashTalk) [![Arxiv](https://img.shields.io/badge/arXiv-2512.23379-B31B1B?style=flat-square)](https://arxiv.org/abs/2512.23379) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square)](https://huggingface.co/Soul-AILab/SoulX-FlashTalk-14B)
 
-<!-- </div> -->
-<!-- </div> -->
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroGraphics 2026</div><img src='images/paper/textflux.png' alt="sym" width="100%"></div></div>
