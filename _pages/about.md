@@ -28,6 +28,7 @@ My name is Qian Qiao (乔谦). I am currently an **Independent Researcher**. I r
 <!-- 🔥🔥🔥 **I am actively seeking job opportunities!** -->
 
 # 🔥 News
+- *2026.05*: 🎉 🔥🔥🔥 1 paper are accepted by ICML 2026.
 - *2026.04*: 🎉 🔥🔥🔥 3 papers are accepted by ACL 2026.
 - *2026.02*: 🎉 🔥🔥🔥 We have open-sourced another audio-driven real-time streaming digital human project: the model **SoulX-FlashHead** (trained on the [**VividHead**](https://huggingface.co/datasets/Soul-AILab/VividHead) dataset) ([GitHub](https://github.com/Soul-AILab/SoulX-FlashHead), [Hugging Face](https://huggingface.co/Soul-AILab/SoulX-FlashHead-1_3B)), currently **ranked #1** on Hugging Face in the image-to-video category. Welcome to check it out!
 - *2026.02*: 🎉 `TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis` is accepted by EUROGRAPHICS 2026.
@@ -54,7 +55,7 @@ My name is Qian Qiao (乔谦). I am currently an **Independent Researcher**. I r
 <!-- 风格: 右边：pipeline/可视化图，右边上下排列：title，作者， 会议/期刊名，(arxiv,)-->
 <!-- 2026出版的 -->
 
-SoulX-FlashHead: 图片占位
+<!-- SoulX-FlashHead: 图片占位 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/flashhead.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
