@@ -56,6 +56,20 @@ My name is Qian Qiao (乔谦). I am currently an **Independent Researcher**. I r
 <!-- 风格: 右边：pipeline/可视化图，右边上下排列：title，作者， 会议/期刊名，(arxiv,)-->
 <!-- 2026出版的 -->
 
+<!-- Uni-Vigu: 图片占位 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/univigu2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator,
+
+  *Technical Report, 2026.*
+
+  [**[arxiv]**](https://arxiv.org/abs/2604.08121) [**[GitHub]**](https://github.com/Fr0zenCrane/Uni-ViGU) [**[Hugging Face]**](https://huggingface.co/Fr0zencr4nE/Uni-ViGU) [![GitHub](https://img.shields.io/github/stars/Fr0zenCrane/Uni-ViGU.svg?style=social&amp;label=Official)](https://github.com/Fr0zenCrane/Uni-ViGU) [![Arxiv](https://img.shields.io/badge/2604.08121-B31B1B?style=flat-square)](https://arxiv.org/abs/2604.08121) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoints-FFD21E?style=flat-square)](https://huggingface.co/Fr0zencr4nE/Uni-ViGU)
+
+</div>
+</div>
+
+
 <!-- SoulX-FlashHead: 图片占位 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/flashhead.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
