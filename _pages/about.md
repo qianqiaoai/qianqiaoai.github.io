@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /legacy.html
 title: ""
 excerpt: ""
 author_profile: true
