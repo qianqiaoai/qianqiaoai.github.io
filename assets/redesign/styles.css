@@ -43,7 +43,7 @@ main { float: right; padding: 4em 0 50px; width: calc(100% - 310px); }
 
 .experience-section { margin: 18px 0 14px; }
 .experience-section h2, .featured-projects h2 { border-bottom: 2px solid var(--border); font-size: 1.1rem; margin: 0 0 10px; padding-bottom: 6px; }
-.experience-grid { display: grid; gap: 8px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.experience-grid { display: grid; gap: 8px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .experience-card { background: #fff; border: 1px solid #d0d7de; border-radius: 8px; padding: 8px 6px; text-align: center; }
 .experience-card img { height: 42px; margin: 0 auto 6px; object-fit: contain; width: 80px; }
 .experience-card strong, .experience-card span, .experience-card small { display: block; line-height: 1.24; }
